@@ -10,5 +10,5 @@ Find any issues or bugs? Tell me about them here: [Issues](https://github.com/ck
 ## Author
 This web app was created by:
 
--[Chad Karon](https://www.linkedin.com/in/chadtk)
--[Nathanial Schwab](https://www.linkedin.com/in/nathanialschwab)
+- [Chad Karon](https://www.linkedin.com/in/chadtk)
+- [Nathanial Schwab](https://www.linkedin.com/in/nathanialschwab)
